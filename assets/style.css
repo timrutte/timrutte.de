@@ -1456,12 +1456,12 @@ body.loaded {
     margin-bottom: 30px; }
   .skills .item .img {
     width: 80px;
-    margin: 0 auto 40px; }
+    margin: 0 auto 0px; }
   .skills .item h2 {
     font-size: 30px; }
 
 .skills .items:nth-of-type(odd) .item .img {
-  margin-bottom: 80px; }
+  margin-bottom: 0px; }
 
 /* Numbers
 -----------------------------------------------------------------*/
