@@ -8,7 +8,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ## Contact
 
-Feel free to reach out to me through the contact form on my website or directly via email at [tim.rutte.dev@gmail.com](mailto:tim.rutte.dev@gmail.com).
+Feel free to reach out to me directly via email at [tim.rutte.dev@gmail.com](mailto:tim.rutte.dev@gmail.com).
 
 ---
 
