@@ -1421,25 +1421,30 @@ body.loaded {
 
 /* Resume
 -----------------------------------------------------------------*/
-.resume .box-item {
+.resume .box-item, .skills .box-item {
   background: #101111;
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: 10px;
-  padding: 40px 30px; }
+  padding: 40px 30px;
+}
+
+.skills .box-item .item {
+  text-align: left;
+}
 
 .resume .title {
   font-weight: 500;
   text-transform: uppercase;
   letter-spacing: 1px; }
 
-.resume .item span {
+.resume .item span, .skills .item span {
   font-size: 13px;
   color: #aaa; }
 
 .resume .item h5 {
   margin: 5px 0; }
 
-.resume .item .date {
+.resume .item .date, .skills .item .date  {
   padding: 4px 10px;
   border: 1px solid rgba(255, 255, 255, 0.1);
   border-radius: 30px; }
