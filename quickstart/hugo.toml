@@ -1,0 +1,4 @@
+baseURL = 'https://timrutte.de/'
+languageCode = 'en-us'
+title = 'Tim Rutte - Software Engineer with Passion'
+theme = 'ananke'
