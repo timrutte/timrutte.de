@@ -1167,11 +1167,11 @@ body.loaded {
   border-radius: 5px; }
   .blog .item .img {
     border-radius: 5px 5px 0 0;
-    overflow: hidden; }
+    overflow: hidden; height: 190px;}
   .blog .item .box {
     padding: 0 10px; }
   .blog .item .cont {
-    padding: 40px;
+    padding: 10px;
     background: #141514;
     border-radius: 10px;
     margin-top: -30px;
@@ -1191,7 +1191,7 @@ body.loaded {
       .blog .item .cont h5:hover {
         color: var(--maincolor); }
       .blog .item .cont h5 a {
-        text-decoration: underline; }
+        text-decoration: none; }
   .blog .item .info {
     padding: 20px 15px;
     font-size: 13px; }
